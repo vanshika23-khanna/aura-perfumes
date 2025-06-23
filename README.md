@@ -12,5 +12,7 @@ This is a simple, responsive landing page for a imaginary perfume brand called A
 - HTML5
 - CSS3 (Flexbox)
 - GitHub Pages (for hosting)
+- Live Site
+[Click here to view it](https://vanshika23-khanna.github.io/aura-perfumes/)
 
 Built for internship task.
